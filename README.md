@@ -3,7 +3,7 @@
 # 📍 Proyecto Dijkstra: Camino Mínimo
 
 ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-green)
-![Language](https://img.shields.io/badge/Language-C++-blue)
+![Language](https://img.shields.io/badge/Language-Python-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Este repositorio contiene la implementación del **algoritmo de Dijkstra** para encontrar la ruta más corta entre nodos en un grafo ponderado. Ideal para entender estructuras de datos y optimización de redes.
